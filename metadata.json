@@ -1,0 +1,6 @@
+{
+  "name": "AURA Studios — Modern Design & Lifestyle",
+  "description": "A modern, premium e-commerce shopping experience for curated design, architectural homeware, minimalist apparel, and acoustic tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
